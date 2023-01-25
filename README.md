@@ -20,6 +20,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![Meal App(Splash,Login,sginUp)](https://user-images.githubusercontent.com/95588729/214460656-af1fcc87-d2f1-4ce2-9c3f-dae211de2d04.jpeg)
-
 ![MealApp(Home Meal)](https://user-images.githubusercontent.com/95588729/214460734-94f87d73-8ad7-463b-9fb2-96bc1a7e113e.jpeg)
 
